@@ -2,6 +2,9 @@
 pip install --upgrade pip
 
 
+## pypi
+pip install twine
+
 ## paquetes para TDD
 pip install nose
 pip install rednose
